@@ -1,7 +1,7 @@
 {
   "name": "perplexy",
   "type": "module",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "description": "Dark themed website template built on AstroJS, designed for SaaS",
   "author": {

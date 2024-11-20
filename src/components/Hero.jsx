@@ -77,6 +77,8 @@ export const Hero = () => {
               src={dashboard.src}
               alt="Dashboard image"
               className="w-4/5 2xl:w-[1200px] mx-auto absolute z-10 rounded-xl main-border-gray hero-dashboard-border-gradient lg:top-6 xl:top-0"
+               width="1895"
+               height="891"
             />
           </div>
         </motion.div>

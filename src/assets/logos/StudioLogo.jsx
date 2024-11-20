@@ -1,4 +1,4 @@
-export const PerplexyLogo = () => (
+export const StudiowxyLogo = () => (
    <svg
       width="40"
       height="40"

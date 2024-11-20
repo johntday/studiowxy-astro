@@ -1,13 +1,13 @@
 # Studiowxy
 
-- VERY FAST Dark themed website template built on AstroJS, designed for SaaS.
+- Dark themed website template built on AstroJS, designed for SaaS.
 
 ## Tech stack
 
 Astro, React, Tailwind, Framer Motion
 
 ## Live link
-https://gumroad-saas-perplexy-astro-eight.vercel.app/
+https://studiowxy.com
 
 
 ## Project Structure

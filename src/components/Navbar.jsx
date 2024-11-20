@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-import { PerplexyLogo } from "../assets/logos/PerplexyLogo.jsx";
+import { StudiowxyLogo } from "../assets/logos/StudiowxyLogo.jsx";
 import { GithubIcon } from "../assets/icons/GithubIcon";
 
 const navbarLinks = [
@@ -30,10 +30,10 @@ export const Navbar = () => {
           <a href="/#home" aria-label="Home">
             <div className="flex justify-start items-center grow basis-0">
               <div className="text-white mr-2 text-6xl">
-                <PerplexyLogo />
+                <StudiowxyLogo />
               </div>
               <div className="text-white font-['Inter'] font-bold text-xl">
-                Perplexy
+                Studiowxy
               </div>
             </div>
           </a>

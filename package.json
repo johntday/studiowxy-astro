@@ -6,6 +6,7 @@
   "description": "Dark themed website template built on AstroJS, designed for SaaS",
   "author": {
     "name": "SomeGuy",
+    "email": "johntday@gmail.com",
     "url": "https://gumroad-saas-perplexy-astro.vercel.app/"
   },
   "private": true,
